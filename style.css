@@ -1,0 +1,21 @@
+html,head,body,div{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	background-color:black;
+	font-weight:bold;
+	text-align:center;
+}
+.title{
+	font-family:impact;
+	font-size:80px;
+	color:red;
+	font-weight:bold;
+}
+.name{
+	font-family:arial;
+	font-size:30px;
+	color:white;
+
+}
